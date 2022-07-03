@@ -13,26 +13,26 @@
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:marcin.rybczynski87@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Szkolenia rowerowe" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Kim jestem?", "url": "/#about" },
+        { "label": "O czym Ci opowiem?", "url": "/blog" },
+        { "label": "Dla kogo?", "url": "/#features" },
+        { "label": "Ile kosztuje?", "url": "/#github" }
       ],
       "ctaButton": {
-        "openNewTab": true,
+        "openNewTab": false,
         "label": "Resume",
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Kontakt", "url": "/privacy" },
+        { "label": "FAQ", "url": "/imprint" }
       ]
     },
     "featureToggles": {

@@ -4,7 +4,7 @@ import {
   ArticlesSection,
   ContactSection,
   HeroSection,
-  InterestsSection,
+  // InterestsSection,
   Page,
   ProjectsSection,
   Seo,
@@ -17,9 +17,9 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
+        <AboutSection sectionId="about" heading="Kim jestem?" />
+        {/* <InterestsSection sectionId="details" heading="Details" /> */}
+        <ProjectsSection sectionId="oCzym" heading="O czym Ci opowiem?" />
         <ContactSection sectionId="github" heading="Issues?" />
       </Page>
     </>
