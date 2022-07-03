@@ -1,0 +1,4 @@
+Dlaczego warto?
+
+Posiadanie wiedzy, która bezpośrednio przekłada się na bezpieczniejsze poruszanie się po drogach, chodnikach, ścieżkach rowerowych jest nieocenione. Z roku na rok przybywa użytkowników dróg. Zarówno rowerzystów, kierowców, użytkowników hulajnóg jak i pieszych. Infrastruktura niestety nie zawsze za tym nadąża. Wpływa to znacząco na natężenie ruchu co z kolei ma ogromny wpływ na bezpieczeństwo. Świadomość zagrożeń, swoich praw i obowiązków względem pieszych i zmotoryzowanych sprawi, że poruszanie się naszym rowerem będzie dla nas, ale również innych, znacznie bezpieczniejsze.
+Poznasz także plusy i minusy zakupu roweru stacjonarnie i przez internet. Dowiesz się jak zminimalizować ryzyko kradzieży Twojego roweru. Podstawowa wiedza techniczna sprawia, że jazda rowerem staje się bezpieczniejsza, a także pozwala zaoszczędzić sporo pieniędzy, ponieważ bardziej świadomie użytkujemy swój rower.

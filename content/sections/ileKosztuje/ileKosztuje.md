@@ -1,0 +1,3 @@
+Ile to kosztuje?
+
+Szkolenia mogą odbywać się w formie stacjonarnej jak również webinaru. Koszt jest uzależniony od formy oraz ilości uczestników. Tańszym rozwiązaniem jest naturalnie webinar. Koszt uczestnictwa jednej osoby przy grupie od 20. do 50. uczestników to 40 zł. Im większa liczba uczestników tym koszt uczestnictwa jednej osoby maleje. W przypadku większych grup cena jest ustalana indywidualnie. Szkolenia mogą być również stacjonarne. W takim przypadku cena jest ustalana zawsze indywidualnie. Chcesz wiedzieć więcej? Zapytaj mnie o ofertę! 

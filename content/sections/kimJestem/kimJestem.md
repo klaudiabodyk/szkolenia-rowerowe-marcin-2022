@@ -1,0 +1,3 @@
+Kim jestem? 
+
+Witaj w moim rowerowym świecie! Nazywam się Marcin Rybczyński. Z branżą rowerową jestem związany od blisko 20. lat. Głównie jako mechanik, ale też sprzedawca oraz szkoleniowiec z zakresu mechaniki rowerowej. Doświadczenie zdobywałem na rynku polskim, ale również niemieckim, gdzie ogromny nacisk kładzie się na bezpieczeństwo rowerzystów. Przez blisko dwie dekady poznałem mnóstwo problemów klientów, często błahych, gdzie rozwiązanie jest bardzo proste. Poprzez szkolenia pragnę poszerzać świadomość użytkowników dwóch kółek na kilku kluczowych płaszczyznach. Pomysł na stworzenie programu szkoleniowego o tematyce bezpieczeństwa wraz z praktycznymi poradami głównie dla osób traktujących rower jako środek transportu narodził się po koniec 2021 roku.  

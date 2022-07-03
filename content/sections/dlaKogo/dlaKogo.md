@@ -1,0 +1,3 @@
+Dla kogo?
+
+Dla każdego! Główną grupą docelową są oczywiście rowerzyści, osoby dojeżdżające rowerem czy hulajnogą do pracy czy szkoły jak i  jeżdżący turystycznie. Jednak zmotoryzowani i piesi również powinni dołączyć! Po pierwsze dlatego, że rowerzystą może stać się każdy, a drugą istotną kwestią jest znajomość praw innych uczestników ruchu, którzy też są pełnoprawnymi użytkownikami dróg. Moje szkolenie opracowywałem z myślą aby były one zrozumiałe dla wszystkich, a zwłaszcza dla tych, którzy traktują rower jako środek transportu i chcą czuć się bezpieczniej, a także zgłębić inne ciekawe rowerowe tematy.
