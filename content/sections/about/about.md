@@ -1,14 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/BikePath3.png"
+imageAlt: "Bike Path"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
-
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Witaj w moim rowerowym świecie! Nazywam się Marcin Rybczyński. Z branżą rowerową jestem związany od blisko 20. lat. Głównie jako mechanik, ale też sprzedawca oraz szkoleniowiec z zakresu mechaniki rowerowej. Doświadczenie zdobywałem na rynku polskim, ale również niemieckim, gdzie ogromny nacisk kładzie się na bezpieczeństwo rowerzystów. Przez blisko dwie dekady poznałem mnóstwo problemów klientów, często błahych, gdzie rozwiązanie jest bardzo proste. Poprzez szkolenia pragnę poszerzać świadomość użytkowników dwóch kółek na kilku kluczowych płaszczyznach. Pomysł na stworzenie programu szkoleniowego o tematyce bezpieczeństwa wraz z praktycznymi poradami głównie dla osób traktujących rower jako środek transportu narodził się po koniec 2021 roku.  
